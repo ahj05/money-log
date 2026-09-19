@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.sites-runtime/
+.pnpm-store/
+.vercel/
+package-lock.json
+.env*
+*.log

@@ -1,0 +1,25 @@
+{
+  "name": "cuk-ai-bootcamp",
+  "version": "1.0.0",
+  "description": "money log interactive mobile-first mockup",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test lib/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "supabase": "^2.117.0",
+    "vercel": "^59.16.0"
+  },
+  "dependencies": {
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
